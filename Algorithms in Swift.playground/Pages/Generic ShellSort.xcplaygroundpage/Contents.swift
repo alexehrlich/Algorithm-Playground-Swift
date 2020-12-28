@@ -52,7 +52,7 @@ func shellSort<T: Comparable>(_ input: [T], by comparison: (T, T) -> Bool) -> [T
             print(items)
         }
         
-        //Gap shrinks down to nearly zero
+        //Gap shrinks down to nearly zero. When it is 1 it iterates with the normal insertion sort over the whole pre-ordered array.
         amountOfSublists /= 2
     }
     

@@ -3,5 +3,6 @@
     <pages>
         <page name='Generic Bubble Sort'/>
         <page name='Generic Inscertion Sort'/>
+        <page name='Generic ShellSort'/>
     </pages>
 </playground>

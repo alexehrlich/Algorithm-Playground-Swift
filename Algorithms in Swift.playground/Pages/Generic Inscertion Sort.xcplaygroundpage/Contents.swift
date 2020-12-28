@@ -23,3 +23,4 @@ func insertionSort<T: Comparable>(_ input: [T], by comparison: (T, T) -> Bool) -
 }
 
 insertionSort(Array(1...10).shuffled(), by: <)
+

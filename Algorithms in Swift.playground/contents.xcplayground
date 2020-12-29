@@ -5,5 +5,6 @@
         <page name='Generic Insertion Sort'/>
         <page name='Generic ShellSort'/>
         <page name='Generic Binary Search'/>
+        <page name='Binary Search Tree'/>
     </pages>
 </playground>

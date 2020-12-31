@@ -6,5 +6,6 @@
         <page name='Generic ShellSort'/>
         <page name='Generic Binary Search'/>
         <page name='Binary Search Tree'/>
+        <page name='Backtrackung Sodoku Solver'/>
     </pages>
 </playground>
